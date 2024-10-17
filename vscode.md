@@ -53,6 +53,8 @@
 |`Cmd` + `マウスクリック`                 | マルチカーソル|
 |`Cmd` + `Shift` + `L`                    | 同じキーワードを全選択|
 |`Cmd` + `L`                              | 行選択|
+|`Option` + `z`                           | 括弧内選択 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
+|`Cmd` + `Option` + `z`                   | 括弧内選択（括弧含む） [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
 
 ## 編集系
 |キー|操作|
