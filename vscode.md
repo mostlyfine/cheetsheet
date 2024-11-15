@@ -4,6 +4,7 @@
 |---|---|
 |`Cmd` + `Shift` + ``p``  | コントロールパレットを開く|
 |`Cmd` + `,`              | 設定画面を開く|
+|`Cmd` + `k`, `Cmd` + `s` | ショートカット一覧表示|
 
 ## ウィンドウ系
 |キー|操作|
@@ -14,6 +15,7 @@
 |`Cmd` + `Shift` + `x`  | 拡張一覧表示|
 |`Ctrl` + `Shift` + `g` | Git管理画面|
 |`Cmd` + `\`            | 左右分割|
+|`Cmd` + `Shift` + `\`  | 分割解除（カスタム）|
 |`Cmd` + `w`            | タブを閉じる|
 |`Cmd` + `j`            | コンソールパネルを開く・閉じる|
 |`Cmd` + `b`            | サイドバーを開く・閉じる|
@@ -53,8 +55,9 @@
 |`Cmd` + `マウスクリック`                 | マルチカーソル|
 |`Cmd` + `Shift` + `L`                    | 同じキーワードを全選択|
 |`Cmd` + `L`                              | 行選択|
-|`Option` + `z`                           | 括弧内選択 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
-|`Cmd` + `Option` + `z`                   | 括弧内選択（括弧含む） [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
+|`Option` + `a`                           | 括弧内選択 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
+|`Option` + `z`                           | 括弧内選択解除 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
+|`Cmd` + `Option` + `a`                   | 括弧内選択（括弧含む） [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
 
 ## 編集系
 |キー|操作|
