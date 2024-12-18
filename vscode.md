@@ -49,9 +49,6 @@
 |キー|操作|
 |---|---|
 |`Cmd` + `d`                              | 単語選択（連続指定可）|
-|`Shift` + `Option` + `Cmd` + `カーソル`  | 矩形選択|
-|`Option` + マウスカーソル(Drag)          | 矩形選択|
-|`Option` 押しながらコピーした行数と同じ行数を選択してOption をしながら「貼り付け」 | 矩形貼り付け|
 |`Option` + `Shift` + `i`                 | 範囲選択の各行の末尾をカーソル化|
 |`Cmd` + `マウスクリック`                 | マルチカーソル|
 |`Cmd` + `Shift` + `L`                    | 同じキーワードを全選択|
@@ -59,6 +56,9 @@
 |`Option` + `a`                           | 括弧内選択 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
 |`Option` + `z`                           | 括弧内選択解除 [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
 |`Cmd` + `Option` + `a`                   | 括弧内選択（括弧含む） [Braket Select](https://marketplace.visualstudio.com/items?itemName=chunsen.bracket-select)|
+|`Shift` + `Option` + `Cmd` + `カーソル`  | 矩形選択|
+|`Option` + マウスカーソル(Drag)          | 矩形選択|
+|`Option` 押しながらコピーした行数と同じ行数を選択してOption をしながら「貼り付け」 | 矩形貼り付け|
 
 ## 編集系
 |キー|操作|
