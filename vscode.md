@@ -9,11 +9,13 @@
 ## ウィンドウ系
 |キー|操作|
 |---|---|
+|`Ctrl` + `w`           | Window切り替え|
 |`Ctrl` + `r`           | 過去に開いた項目一覧|
 |`Cmd` + `Shift` + `f`  | 検索表示|
 |`Cmd` + `Shift` + `e`  | ファイルツリー表示|
 |`Cmd` + `Shift` + `x`  | 拡張一覧表示|
-|`Ctrl` + `Shift` + `g` | Git管理画面|
+|`Ctrl` + `Shift` + `g` | Gitソース管理に移動|
+|`Ctrl` + `Cmd` + `i`   | copilot chatに移動|
 |`Cmd` + `\`            | 左右分割|
 |`Cmd` + `Shift` + `\`  | 分割解除（カスタム）|
 |`Cmd` + `m`            | パネルを最大化トグル（カスタム）|
